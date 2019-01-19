@@ -16,8 +16,28 @@ But rather:
 
 # Free Software
 
+_Open source as social activism._
+
 # BSD School
 
-# Commercial Pragmatists
+_Open source as opposition to intellectual property._
 
-# Peer Production
+# Commercial Pragmatism
+
+_Open source as route around corporate procurement._
+
+# Industry Insurgency
+
+_Open source as advantage against incumbent firms._
+
+# Peer Production Theorists
+
+_Open source as alternative to the market._
+
+# Communitarianism
+
+_Open source as social community._
+
+# Web Exceptionalism
+
+_Open source as emblematic of the Web's revolution._
