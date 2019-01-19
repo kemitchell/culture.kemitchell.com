@@ -9,7 +9,7 @@ body {
 }
 
 header, nav, main, footer {
-  max-width: 37rem;
+  max-width: 30rem;
   margin: 3rem auto;
 }
 
